@@ -1,0 +1,77 @@
+@media only screen and (max-width: 924px) {
+
+    body {
+        margin: 0;
+    }
+
+    /* Navigation */
+    .navbar {
+        height: 3rem;
+        font-size: 18px;
+    }
+
+    /* Content */
+    .Content {
+        height: auto;
+        margin: 0;
+    }
+
+    h1 {
+        font-size: 28px;
+        margin-right: 0;
+    }
+
+    .Description {
+        font-size: 20px;
+    }
+
+    /* Library */
+    .library {
+        margin-top: 1rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .product {
+        width: 100%;
+        max-width: 250px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .product img {
+        height: 150px;
+    }
+
+    .product p {
+        font-size: 1rem;
+    }
+
+    .Pay {
+        font-size: 18px;
+        height: 30px;
+        padding: 0 20px;
+    }
+
+    .P-about {
+        font-size: 20px;
+    }
+
+    .About-text {
+        font-size: 28px;
+    }
+
+    .nameSocial {
+        font-size: 18px;
+    }
+
+    .Social {
+        font-size: 28px;
+    }
+}
